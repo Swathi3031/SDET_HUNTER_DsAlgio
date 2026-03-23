@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SDET_Hunters_DS_Algo</name>
+=======
+	<name>DsAlgo_SDET_HUNTER</name>
+>>>>>>> 53bab4154b26696222a2e0fd049c370e25614434
 	<comment></comment>
 	<projects>
 	</projects>
