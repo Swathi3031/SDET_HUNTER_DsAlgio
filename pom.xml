@@ -53,10 +53,6 @@
     <version>5.5.1</version>
     <scope>compile</scope>
 </dependency>
-  	<groupId>DsAlgo2025</groupId>
-  	<artifactId>DsAlgo2025</artifactId>
-  	<version>0.0.1-SNAPSHOT</version>
-  </dependency>
   <!-- Source: https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
