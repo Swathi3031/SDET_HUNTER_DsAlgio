@@ -53,7 +53,6 @@
     <version>5.5.1</version>
     <scope>compile</scope>
 </dependency>
-  <dependency>
   	<groupId>DsAlgo2025</groupId>
   	<artifactId>DsAlgo2025</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
